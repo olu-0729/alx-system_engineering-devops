@@ -1,1 +1,1 @@
-command that lists all the files and directories of the current directory, separated by commas (,)
+ symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
